@@ -1,0 +1,5 @@
+value=input("Enter Numbers With Comma Sepretor::")
+list=value.split(",")
+tuple=tuple(list)
+print("List:",list)
+print("Tuple:",tuple)
